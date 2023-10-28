@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698411904 source:d:\Курсы\cross\main.cpp
+	<iostream>
+	<windows.h>
+	<cstring>
+
